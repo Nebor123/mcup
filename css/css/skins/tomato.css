@@ -1,0 +1,104 @@
+body {
+  color: #fff; }
+
+a {
+  color: #fff; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #fff; }
+
+.color_element {
+  color: #fff; }
+
+.color_bg {
+  background-color: #fff; }
+
+.color_border {
+  border-color: #fff; }
+
+.bg_light {
+  background-color: #fff; }
+
+.bg_dark {
+  background-color: #fff;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+
+.top_mnu a:hover {
+  color: #fff; }
+.top_mnu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: #fff;
+  letter-spacing: 5px; }
+
+.personal_header {
+  letter-spacing: 2px; }
+
+.s_descr {
+  letter-spacing: 4px; }
+  .s_descr::after {
+    background-color: #fff; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #fff; }
+
+.s_about p:nth-child(even) {
+  color: #fff; }
+
+.resume_container h3 {
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 600; }
+
+.resume_item .year {
+  background-color: #fff;
+  color: #fff; }
+.resume_item .resume_description {
+  letter-spacing: 1px; }
+
+.s_portfolio li {
+  color: #fff;
+  letter-spacing: 2px; }
+.s_portfolio li.active {
+  color: #fff;
+  border-bottom: 1px solid #fff; }
+
+.portfolio_item .port_item_cont a {
+  border-color: #fff;
+  color: #fff; }
+
+.main_footer a {
+  color: #fff; }
+
+.contacts_icon {
+  color: #fff; }
+
+.text-danger {
+  color: #fff; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #fff; }
+form input,
+form textarea {
+  letter-spacing: 2px; }
+form button {
+  background-color: #fff;
+  letter-spacing: 2px; }
+form .form-group {
+  letter-spacing: 2px;
+  color: #fff; }
+
+.popup_content {
+  letter-spacing: 1px; }
+
+/*# sourceMappingURL=tomato.css.map */
