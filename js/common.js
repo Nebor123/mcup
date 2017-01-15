@@ -1,5 +1,25 @@
 $(document).ready(function() {
 
+
+ 
+	$("#owl-demo").owlCarousel({
+		autoplay:true,
+		autoplayTimeout:2000,
+		navigation : true, // показывать кнопки next и prev 
+
+		slideSpeed : 300,
+		paginationSpeed : 400,
+
+		items : 1, 
+		itemsDesktop : false,
+		itemsDesktopSmall : false,
+		itemsTablet: false,
+		itemsMobile : false
+
+	});
+ 
+
+
 	$("#portfolio_grid").mixItUp();
 
 	$(".s_portfolio li").click(function() {
